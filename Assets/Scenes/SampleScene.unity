@@ -890,7 +890,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 4
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -914,7 +914,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -13.375008, y: 0.37471628, z: -10}
+  m_LocalPosition: {x: -15.438221, y: -0.63260007, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -19406,22 +19406,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -1273778530475696861, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
-      propertyPath: m_Material
-      value: 
-      objectReference: {fileID: 6200000, guid: f8a35dab570ce874086184d0a950c7e3, type: 2}
-    - target: {fileID: 886291517, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
-      propertyPath: m_GravityScale
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 886291517, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 886291519, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
-      propertyPath: jumSpeed
-      value: 25
-      objectReference: {fileID: 0}
     - target: {fileID: 7129789431137550315, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -19469,10 +19453,6 @@ PrefabInstance:
     - target: {fileID: 7129789431137550318, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
       propertyPath: m_Name
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 7129789431137550318, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
-      propertyPath: m_Layer
-      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7d6d1b019982b07438db74ffe622b1ab, type: 3}
